@@ -2,7 +2,7 @@
 #include <stdlib.h> // pulls in declaration of malloc, free
 #include <string.h> // pulls in declaration for strlen.
 #include "SOIL.h"
-//#include <SOIL.h>
+//#include <SOIL.h> checking
 
 
 #define GL_SILENCE_DEPRECATION
